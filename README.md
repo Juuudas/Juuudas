@@ -8,8 +8,8 @@ I've been interested in computer science my whole life. I studied computer scien
 
 * 🌍  I'm based in Tartu, Estonia
 * ✉️  You can contact me at [taurijuudas1@gmail.com](mailto:taurijuudas1@gmail.com)
-* 🧠  I'm learning SwiftUI.
-* 🤝  I'm open to collaborating on Crypto projects or anything that makes me understand the use of it.
+* 🧠  I'm learning React JS.
+* 🤝  I'm open to collaborating on different projects.
 
 <a href="https://www.twitter.com/JuudasTauri" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/JuudasTauri?logo=twitter&style=for-the-badge&color=0891b2&labelColor=171717"
