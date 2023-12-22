@@ -1,4 +1,6 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tauri Juudas!
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+<br>
+My name is Tauri Juudas!
 =====================================================================================================================================
 
 Welcome to my profile!
@@ -10,11 +12,6 @@ I've been interested in computer science my whole life. I studied computer scien
 * ✉️  You can contact me at [taurijuudas1@gmail.com](mailto:taurijuudas1@gmail.com)
 * 🧠  I'm learning React JS.
 * 🤝  I'm open to collaborating on different projects.
-
-<a href="https://www.twitter.com/JuudasTauri" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/JuudasTauri?logo=twitter&style=for-the-badge&color=0891b2&labelColor=171717"
-/></a><a href="https://www.github.com/juuudas" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/juuudas?logo=github&style=for-the-badge&color=0891b2&labelColor=171717" /></a>
 
 ### Skills
 
