@@ -1,10 +1,4 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-<br>
-My name is Tauri Juudas!
-=====================================================================================================================================
-
-Welcome to my profile!
-----------------------
 
 I've been interested in computer science my whole life. I studied computer science in my high school (Tartu Tamme Gümnaasium) and currently I am completing bachelor's degree in University of Tartu. I have studied Java, Python, HTML, CSS and a little bit of JavaScript. Dealing with these languages I feel comfortable and I manage to success in different tasks,. I really like doing fun things in Photoshop or Adobe Premiere.
 
